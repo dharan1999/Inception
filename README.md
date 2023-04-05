@@ -1,6 +1,9 @@
 # Inception
 We all, at some point or the other, would have come across a situation where we would have had a really nice and implementable idea with a proper plan of execution, but we were not able to find the right people for it, who in turn can make our dream project into reality and bring it to life. Also, majority of startup aspirants seemingly have a hard time to seek investors and convince them to invest in their ideas.
 
+![Inc 1b4f166eec2ddf4c6a0c](https://user-images.githubusercontent.com/41338131/230228353-638d85ba-d808-4604-9e8c-40e3180f1339.png)
+
+
 That is where most of the go-getters give up and they get into the perpetual cycle of jumping from one project to another as they are not able to team up with like-minded people and find the right person who might be willing to invest in their project.
 
 Don't worry, Inception to the rescue.
