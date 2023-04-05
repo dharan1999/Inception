@@ -5,4 +5,4 @@ That is where most of the go-getters give up and they get into the perpetual cyc
 
 Don't worry, Inception to the rescue.
 
-Inception is an online platform which renders a place where start-up aspirants can pitch their ideas, collaborate with likeminded people and make their perception into reality.It also incorporates the functionality of seeking investors who might be willing to invest in startups, from the platform itself. 
+Inception is an online platform made using HTML, CSS, Bootstrap, Javascript, AJAX, PHP and MySQL, which renders a place where start-up aspirants can pitch their ideas, collaborate with likeminded people and make their perception into reality. It also incorporates the functionality of seeking investors who might be willing to invest in startups, from the platform itself.
